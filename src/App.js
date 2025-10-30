@@ -52,7 +52,7 @@ function App() {
         <p className='datetext'>{new Date(weather.time).toLocaleString()}</p>
         <div className='Weatherdesc'>
           <img src=""alt=""
-          />
+           />
           <h3>Current Weather</h3>
         </div>
         <div className='tempstats d-flex flex-c'>
